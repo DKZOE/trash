@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Trash Classifier",
+  "description": "An intelligent web application that uses your webcam and the Gemini API to identify and classify different types of trash.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
